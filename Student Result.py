@@ -1,4 +1,4 @@
-print("📘 Student Result System")
+print("Student Result System")
 name = input("Enter student name: ")
 try:
     maths = int(input("Enter Maths marks: "))
